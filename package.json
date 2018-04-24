@@ -1,0 +1,22 @@
+{
+  "name": "@icstechsales/random-demo-names",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dprosper/random-demo-names.git"
+  },
+  "author": "Dimitri Prosper <dimitri.prosper@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dprosper/random-demo-names/issues"
+  },
+  "homepage": "https://github.com/dprosper/random-demo-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.1"
+  }
+}
