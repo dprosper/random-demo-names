@@ -3,7 +3,8 @@ var names = require("./demo-names");
 var getRandomItem = uniqueRandomArray(names)
 module.exports = {
   all: names,
-  random: random
+  random: random,
+  all2: names
 };
 
 function random (number) {
